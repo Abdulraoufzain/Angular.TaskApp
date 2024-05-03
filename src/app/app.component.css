@@ -1,0 +1,48 @@
+ا/* ØªÙØ³ÙÙ Ø§ÙØ¹ÙØ§ØµØ± */
+form {
+  text-align: center;
+  margin-top: 50px; /* ØªØ¨Ø§Ø¹Ø¯ Ø§ÙØ¹ÙØµØ± Ø¹Ù Ø§ÙØ£Ø¹ÙÙ */
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold; /* Ø²Ø®Ø±ÙØ© Ø§ÙØ£Ø³ÙØ§Ø¡ */
+  color: #333; /* ÙÙÙ Ø§ÙØ£Ø³ÙØ§Ø¡ */
+  text-transform: uppercase; /* ØªØ­ÙÙÙ Ø§ÙÙØµ Ø¥ÙÙ Ø­Ø±ÙÙ ÙØ¨ÙØ±Ø© */
+}
+
+input {
+  padding: 8px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #007bff; /* ÙÙÙ Ø§ÙØ¥Ø·Ø§Ø± */
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* ØªÙØ³ÙÙ Ø§ÙØ¹ÙØµØ± Ø§ÙÙØ§ØªØ¬ */
+div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+/* ØªÙØ³ÙÙ Ø§ÙØ®ÙÙÙØ© ÙØ§ÙØ£ÙÙØ§Ù */
+body {
+  background-color: #f2f2f2;
+}
